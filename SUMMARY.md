@@ -4,4 +4,5 @@
 * [Diversity and Inclusion Statement](diversity-and-inclusion-statement.md)
 * [Strategic Plan 2021-2023](strategic-plan-2021-2023.md)
 * [Code of Conduct](code-of-conduct.md)
+* [Ersilia, the invisible city](ersilia-the-invisible-city.md)
 
