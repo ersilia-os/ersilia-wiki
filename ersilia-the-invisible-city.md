@@ -6,5 +6,5 @@ They rebuild Ersilia elsewhere. They weave a similar pattern of strings which th
 
 Thus, when travelling in the territory of Ersilia, you come upon the ruins of the abandoned cities, without the walls which do not last, without the bones of the dead which the wind rolls away: spiderwebs of intricate relationships seeking a form.
 
-Invisible Cities, Italo Calvino
+_Invisible Cities, Italo Calvino_
 
