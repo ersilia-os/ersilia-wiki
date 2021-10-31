@@ -6,3 +6,6 @@
 * [Code of Conduct](code-of-conduct.md)
 * [Ersilia, the invisible city](ersilia-the-invisible-city.md)
 
+## 🗣 Announcements
+
+* [Merck Biopharma Speed Grant](announcements/merck-biopharma-speed-grant.md)
