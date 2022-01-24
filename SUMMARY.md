@@ -9,3 +9,4 @@
 ## 🗣 Announcements
 
 * [Merck Biopharma Speed Grant](announcements/merck-biopharma-speed-grant.md)
+* [Job Description](announcements/job-description.md)
