@@ -9,7 +9,7 @@ description: >-
 **Period:** Part time, 300h hours. Start date: March 2022\
 **Type:** Contract position. Applicants must be able to work legally in their country. Honoraries to be discussed on a per-application basis.
 
-The Ersilia Open Source Initiative (EOSI; [https://ersilia.io](https://ersilia.io)) is seeking a dynamic, enthusiastic, and disciplined data scientist to deploy AI/ML models to the AWS Cloud. The position will involve bringing to production the current AI/ML models available in the Ersilia Model Hub, as well as adding a privacy-preserving component to them, based on the tools developed by OpenMined or similar recent initiatives. You will work closely with Dr. Miquel Duran-Frigola, Lead Scientist and Co-Founder of EOSI and main developer of the Ersilia Model Hub.&#x20;
+The Ersilia Open Source Initiative (EOSI; [https://ersilia.io](https://ersilia.io)) is seeking a dynamic, enthusiastic, and disciplined data engineer to deploy AI/ML models to the AWS Cloud. The position will involve bringing to production the current AI/ML models available in the Ersilia Model Hub, as well as adding a privacy-preserving component to them, based on the tools developed by OpenMined or similar recent initiatives. You will work closely with Dr. Miquel Duran-Frigola, Lead Scientist and Co-Founder of EOSI and main developer of the Ersilia Model Hub.&#x20;
 
 The current position is sponsored by several grants awarded to EOSI, including the Merck BioPharma Speed Grant. EOSI is a UK-registered charity aimed at disseminating AI/ML tools for biomedical research. We work completely in the open, which means that we expect to publish and publicize the code developed during the project.
 
